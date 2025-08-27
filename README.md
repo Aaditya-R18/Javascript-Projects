@@ -1,5 +1,5 @@
 # Javascript-Projects
 #Project Output
-<img width="606" height="60" alt="Screenshot 2024-08-27 224734" src="https://github.com/user-attachments/assets/3f25d656-5f8f-48e7-8135-00caffc728e4" />
-<img width="535" height="62" alt="Screenshot 2024-08-27 224350" src="https://github.com/user-attachments/assets/d6dfa8a7-1b88-41f4-b82b-94fbb28a8b86" />
-<img width="548" height="142" alt="Screenshot 2024-08-27 224139" src="https://github.com/user-attachments/assets/4da4801c-b7d7-402d-a8d3-39ec6892c34c" />
+<img width="938" height="614" alt="Screenshot 2025-08-27 110300" src="https://github.com/user-attachments/assets/8846e0dd-ea37-4326-8ae3-7811c70695fe" />
+<img width="785" height="655" alt="Screenshot 2025-08-27 110421" src="https://github.com/user-attachments/assets/0f4dea1e-cff1-4e7d-92cb-07743c6902cc" />
+<img width="1081" height="762" alt="Screenshot 2025-08-27 110532" src="https://github.com/user-attachments/assets/242e9941-fa9c-4a31-87c8-6efbba638d14" />
